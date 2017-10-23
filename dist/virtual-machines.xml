@@ -4,7 +4,7 @@
         <description><![CDATA[azure-docs-update(virtual-machines)]]></description>
         <link>http://update-check.azurewebsites.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Oct 2017 16:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2017 16:03:00 GMT</lastBuildDate>
         <atom:link href="http://i.anison.me/virtual-machines.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Merge branch 'master' of https://github.com/MicrosoftDocs/azure-docs-pr into FromPrivateRepo]]></title>

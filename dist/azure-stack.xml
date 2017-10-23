@@ -4,7 +4,7 @@
         <description><![CDATA[azure-docs-update(azure-stack)]]></description>
         <link>http://update-check.azurewebsites.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Oct 2017 15:56:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2017 16:00:00 GMT</lastBuildDate>
         <atom:link href="http://i.anison.me/azure-stack.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[fixing metadata]]></title>

@@ -4,7 +4,7 @@
         <description><![CDATA[azure-docs-update(vpn-gateway)]]></description>
         <link>http://update-check.azurewebsites.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Oct 2017 15:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2017 15:56:34 GMT</lastBuildDate>
         <atom:link href="http://i.anison.me/vpn-gateway.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Update vpn-gateway-vpn-faq.md]]></title>

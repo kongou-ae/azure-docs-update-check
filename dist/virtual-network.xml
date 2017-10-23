@@ -4,7 +4,7 @@
         <description><![CDATA[azure-docs-update(virtual-network)]]></description>
         <link>http://update-check.azurewebsites.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Oct 2017 15:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2017 15:56:32 GMT</lastBuildDate>
         <atom:link href="http://i.anison.me/virtual-network.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Added link to Linux routing instructions.]]></title>

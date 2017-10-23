@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[azure-docs-update(availability-zones)]]></title>
+        <description><![CDATA[azure-docs-update(availability-zones)]]></description>
+        <link>http://update-check.azurewebsites.net</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 23 Oct 2017 15:31:21 GMT</lastBuildDate>
+        <atom:link href="http://i.anison.me/availability-zones.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[removing the Include per Matt's suggestion]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/9a6a0ef65f813dadf43f68c84cd70ffd9566a85e</link>
+            <guid isPermaLink="false">bad0ca90aa073ea9e27cff0ea92dea55921c24a0</guid>
+            <pubDate>Thu, 28 Sep 2017 17:43:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[added links to Public IP and Load Balancer how to topics in the Availability Zones TOC]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/f9d46537859f782c3e443eb61768026f669d1d97</link>
+            <guid isPermaLink="false">9bfa180110b549691cbb5bb51d6c942a063fa44b</guid>
+            <pubDate>Mon, 25 Sep 2017 18:52:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adding AZ files back]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/9d16d16f0e57fab9f1827c37f181e579c627b3d9</link>
+            <guid isPermaLink="false">0b45a914731861212edaeb25be72c23dc4433956</guid>
+            <pubDate>Sun, 24 Sep 2017 03:39:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Merge branch 'live' into master]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/3e97c90d56ef8833eb5e63dc3d42716a9f5aba91</link>
+            <guid isPermaLink="false">9493f3c14b4ce6ed993e3ece59d3a35b3056b376</guid>
+            <pubDate>Fri, 22 Sep 2017 19:49:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Removing conceptual VM docs]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/27779800285f6dad6f640a91f085c5d31aa251f0</link>
+            <guid isPermaLink="false">c0d9d166718d6a4d3643ac00a7f8522bb0014224</guid>
+            <pubDate>Fri, 22 Sep 2017 18:19:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rewinding AZ PS + CLI docs]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/a849463a6c2ef6b5d00b4f7e777ce5103d28df3e</link>
+            <guid isPermaLink="false">c1ef08d80ef52d06e8993cbf7a61c2f355cbe78f</guid>
+            <pubDate>Fri, 22 Sep 2017 18:16:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[grammatical updates to overview page]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/0802eb7a2690eb8a8cf029da7c62efaf29583119</link>
+            <guid isPermaLink="false">329bb6b1ea2fe9b54b9cfe5386a1a88aba8552e7</guid>
+            <pubDate>Fri, 22 Sep 2017 17:15:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[adding load balancer and changing to vm size families]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/d2614e9faf0c8d4a1b0ad7168aca8787cad9bac1</link>
+            <guid isPermaLink="false">355c50fe284cacdd86b4fc6efc327c0b671ae021</guid>
+            <pubDate>Fri, 22 Sep 2017 04:30:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[preparing AZ PR]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/b249fa704dbc902ed7725804084a69b028dafdd9</link>
+            <guid isPermaLink="false">f28e8f28fb9baa604fd99dae1a17eb4fac45cab1</guid>
+            <pubDate>Thu, 21 Sep 2017 21:13:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Merge pull request #23697 from markgalioto/a-zones-10
+
+updating the overview and TOC to include Load balancer]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/59acbf859a3f2ff295c67bf7e00b30f9570021a4</link>
+            <guid isPermaLink="false">90142218207978fd4f5f6c1700beaf5eaa258f5c</guid>
+            <pubDate>Thu, 21 Sep 2017 19:51:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[updating graphic per marketing]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/2e791bf82dfc0aa66077f7d76909f829d2f382ec</link>
+            <guid isPermaLink="false">662fac0a4be95d7b0226a18ac0541d6c964b2977</guid>
+            <pubDate>Thu, 21 Sep 2017 19:21:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[updating the overview and TOC to include Load balancer]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/e1186ccb2c6c5fb4f19b5f405a103a951765bfec</link>
+            <guid isPermaLink="false">2a09a8344043d8ab6d7cf4cb5f4434ffeeacb1d6</guid>
+            <pubDate>Thu, 21 Sep 2017 19:05:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Update az-overview.md]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/5c8bead33559addf70686b9c4375f34b746bcefe</link>
+            <guid isPermaLink="false">bcfc57feadc4d4e872e5e6b96ce1c30ce92a415a</guid>
+            <pubDate>Thu, 21 Sep 2017 02:49:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[removing Load Balancer from TOC because it breaks]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/8ee5519821d8774c8ca59ccba74a9edc04257d4b</link>
+            <guid isPermaLink="false">e4a1e3ee72fdb56729a5c8e940a6f7b36be33bbc</guid>
+            <pubDate>Thu, 21 Sep 2017 01:36:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[editing the TOC]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/095da42368030d49ca1eb4527daaa8fa0903e6e4</link>
+            <guid isPermaLink="false">4ae1f12be5ae818fe310da2a094727fb1c5ac4b8</guid>
+            <pubDate>Thu, 21 Sep 2017 00:46:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[updating Overview article with include and link to Load Balancer]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/98e33d338cf03e0cbcdaeec358a1d4438667df99</link>
+            <guid isPermaLink="false">4a9cb2c8832674736f16f5eaf06de381878784ed</guid>
+            <pubDate>Thu, 21 Sep 2017 00:42:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fixing errors in the TOC and overview]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/7c96d32cf1e8f8df4ab9d9854d84b32189b054c4</link>
+            <guid isPermaLink="false">c17e7cbacae194c386b77e71cdc0b17237c32479</guid>
+            <pubDate>Tue, 19 Sep 2017 00:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[adding Matt's edits to the overview article]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/b4732c8ebceaa0953ae2921fe2853c5dd5eec502</link>
+            <guid isPermaLink="false">4f4575214317309fa77fde2a3e61ce9ef5f93fa6</guid>
+            <pubDate>Mon, 18 Sep 2017 23:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[second attempt to get contextual TOC correct]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/4f41850c4ca37e9366dc38c483cc6c4cd28a5889</link>
+            <guid isPermaLink="false">198a1ed10d5ce6e823f2f5ea82186299809a4f48</guid>
+            <pubDate>Mon, 18 Sep 2017 23:03:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[adding in a contextual TOC]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/a9f490cec1a6d35d35619be783c11c92a9e24986</link>
+            <guid isPermaLink="false">4893af72459ecda52e3ad7f7a378ee12538bacd4</guid>
+            <pubDate>Mon, 18 Sep 2017 22:43:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[updating TOC for AZ with Ignite content]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/504c5c8a948dd1b5bd6e4872dee2c32ff2722ab3</link>
+            <guid isPermaLink="false">7493bbe6dad600e7ddb8141aeda29707bafb4789</guid>
+            <pubDate>Mon, 18 Sep 2017 21:58:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tweaking size of the art and making sure it shows up]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/7faa4b9be0cce74968f66786da4c90e9b6888107</link>
+            <guid isPermaLink="false">5c090a02ab6ace777615ad61eccc96cee69651dc</guid>
+            <pubDate>Wed, 13 Sep 2017 17:32:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[adding John's art to overview]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/6acd88347c0051446274d93287661a15855e2aa4</link>
+            <guid isPermaLink="false">19654ec0289501350b32ea18911b9badeccb0721</guid>
+            <pubDate>Wed, 13 Sep 2017 17:07:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[updating link]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/f0d16645bcdb848e0e5eb0097e4d799b4fd6ff8b</link>
+            <guid isPermaLink="false">103771cc77542e8fab690b82dad69aacc45bd7c7</guid>
+            <pubDate>Wed, 13 Sep 2017 16:48:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[removing FAQ and updating overview article]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/32c8aabba4795e38d8d162f2ecfacbdc8f684b21</link>
+            <guid isPermaLink="false">83e053e2ffba41fb8cc15b43487519ababc50f54</guid>
+            <pubDate>Wed, 13 Sep 2017 06:31:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[updating overview article and TOC]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/07a16c99f086814d8b36780a9d1ed8e7be6621e7</link>
+            <guid isPermaLink="false">17cd276e0ece0e50bfb3d6b181ec1fb99535816a</guid>
+            <pubDate>Tue, 12 Sep 2017 23:52:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[updating the overview article]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/34dfc523d8ef79941b58e7068531bdacc8739d0a</link>
+            <guid isPermaLink="false">4f8b120b435dbaa36183b51e761f3776ec2a3a48</guid>
+            <pubDate>Tue, 12 Sep 2017 16:37:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[updating TOC]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/1b16f88a640d8545949f74c5b94bc77f7a19acbf</link>
+            <guid isPermaLink="false">7581c93997b9e6d6ae63448bd1cc2928094bd379</guid>
+            <pubDate>Tue, 12 Sep 2017 05:19:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[overhaul of the article based on feedback]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/14af802a301df0d71c92e52c7393b2810bf49592</link>
+            <guid isPermaLink="false">40914491f45f4e8e14e38b088a4fd544b4d9fabb</guid>
+            <pubDate>Tue, 12 Sep 2017 04:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tweaking the intro paragraph some more]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/feafb9c1880b5dfbbde0545a844d40949216d761</link>
+            <guid isPermaLink="false">6ba182cf0cde3c947fd75da4f650996c55683577</guid>
+            <pubDate>Mon, 11 Sep 2017 23:24:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

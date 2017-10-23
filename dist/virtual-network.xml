@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[azure-docs-update(virtual-network)]]></title>
+        <description><![CDATA[azure-docs-update(virtual-network)]]></description>
+        <link>http://update-check.azurewebsites.net</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 23 Oct 2017 15:31:24 GMT</lastBuildDate>
+        <atom:link href="http://i.anison.me/virtual-network.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Added link to Linux routing instructions.]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/e5d80aeb8f362514909079f72fdd9949744b73ee</link>
+            <guid isPermaLink="false">1dd29ab8a7a29c5c10832a0c71a7edbfe5d26c4c</guid>
+            <pubDate>Fri, 20 Oct 2017 16:15:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Merge pull request #25521 from jimdial/udr-how-to
+
+UDR How to updates]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/f0c74b159072bb8e4efa8a0717e5ad45eb16a449</link>
+            <guid isPermaLink="false">fc05259626a5d4479012cc354833a3b6bc1aa0d8</guid>
+            <pubDate>Thu, 19 Oct 2017 19:43:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fix]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/b54093b0969aa3e91ef43536d8288996cceec76d</link>
+            <guid isPermaLink="false">185d0a8825b9300bda2a123ba6478b3e6c6b4820</guid>
+            <pubDate>Thu, 19 Oct 2017 17:51:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fix]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/34e1acc7eac7ab08eca405c90212cf1cbfdc330a</link>
+            <guid isPermaLink="false">3a426278e8f349557c9dd39cba9e5483d92bf4d6</guid>
+            <pubDate>Thu, 19 Oct 2017 17:49:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fix]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/df6e232fed79653acac3413f0f86dada878e9190</link>
+            <guid isPermaLink="false">7a98855f459425039e417b2a054f06bbbf83cc86</guid>
+            <pubDate>Thu, 19 Oct 2017 17:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fixes]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/2e25cb4b4792dd850482a015f8d7ce7d197af900</link>
+            <guid isPermaLink="false">aa28a2657562234588ac1eb55a3e8df7f556078b</guid>
+            <pubDate>Thu, 19 Oct 2017 16:35:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Added ping and route print.]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/75d9d1de80edd9de3fb538f6e63f78a65c69d28c</link>
+            <guid isPermaLink="false">2e369db84d85a468cae36bad173cb7b7b4497777</guid>
+            <pubDate>Thu, 19 Oct 2017 16:11:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Added instructions
+
+Added instructions for configuring gateways for secondary NICs.]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/58a58f14b180d8f516871c2b2cd1b86a643fe529</link>
+            <guid isPermaLink="false">8956dbdb91403d74356e819917b14b5d9ecbf390</guid>
+            <pubDate>Thu, 19 Oct 2017 13:15:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Merge pull request #25741 from jimdial/patch-3
+
+Added clarity on cross-VNet constraints for ASGs.]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/8f1e83ffb2f102090ecda6e17be54094847a75a2</link>
+            <guid isPermaLink="false">a51a220372af4bf742d8d75859d3602c200c3629</guid>
+            <pubDate>Thu, 19 Oct 2017 12:14:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Merge pull request #25748 from jimdial/patch-5
+
+Fixed typos.]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/d16e5993c77b8fd689fbf4a9f72f9e3687b15bed</link>
+            <guid isPermaLink="false">ed1d9677caab7bc030f87a024c2f561105bea40d</guid>
+            <pubDate>Wed, 18 Oct 2017 21:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fixes.]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/88ba82572635541acb53b942b2ce4054cc7858d4</link>
+            <guid isPermaLink="false">59b68f7dfba00f0ab8a249e1f23c57c1b345286e</guid>
+            <pubDate>Wed, 18 Oct 2017 20:52:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fixed typos.]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/41d4b432750e44dde44c7bd42186d2f0765954a9</link>
+            <guid isPermaLink="false">ea1d2688c0a38854407d0193bdcd8892aff118a4</guid>
+            <pubDate>Wed, 18 Oct 2017 20:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Removed text
+
+Removed "The permission assignment for UserB is not a requirement. Peering can be established even if users individually raise peering requests for their respective virtual networks, as long as the requests match. Adding a privileged user of the other virtual network as a user in the local virtual network makes it easier to do the setup."]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/4e185d9ceba3def16aedbd5c0236be39ec419107</link>
+            <guid isPermaLink="false">bb9287949fa269919af0fd24d21d6c720e3d51b7</guid>
+            <pubDate>Wed, 18 Oct 2017 20:35:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Added clarity on cross-VNet constraints for ASGs.
+
+@malopMSFT - Please review and provide feedback or sign-off.  Thanks]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/8e699c3f7edbaa4a651abf47830cc07cf390cf9c</link>
+            <guid isPermaLink="false">07150f63c1515c6b9c9cc4d9bab8f7b549039503</guid>
+            <pubDate>Wed, 18 Oct 2017 19:52:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Merge branch 'master' of https://github.com/MicrosoftDocs/azure-docs-pr into udr-how-to]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/edd81135ac78e10fae5764447d4f4af09856428f</link>
+            <guid isPermaLink="false">15348dc83f4aaddf3f3fd2e67496cc0f999bedc2</guid>
+            <pubDate>Tue, 17 Oct 2017 16:06:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Updates.]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/a1c7ca82e6ce80eafee02fd19235380afd2fa7a0</link>
+            <guid isPermaLink="false">3d1460c1fa00737d4a2f7d909f1ee2b34bbd0ac0</guid>
+            <pubDate>Tue, 17 Oct 2017 16:06:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fixed typo.]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/36acbdd6f2fb12660747f99f2de454636a1c1a68</link>
+            <guid isPermaLink="false">5c70d84cf31eadc1d19bc56e9a116a39f28d2382</guid>
+            <pubDate>Tue, 17 Oct 2017 13:04:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Updates.]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/cf7df6da1fe57a71b3bb469b22f79cb9bcfe5cd8</link>
+            <guid isPermaLink="false">fef2e6c8a40cdc7747330b73b193c0a85acf5c60</guid>
+            <pubDate>Mon, 16 Oct 2017 18:07:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Merge branch 'master' of https://github.com/MicrosoftDocs/azure-docs-pr into udr-how-to]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/848635ed46e77f243a5c9cd996ad46b051d7ce36</link>
+            <guid isPermaLink="false">d37deaaef60f500e9d47f53920c7df6731d14f95</guid>
+            <pubDate>Mon, 16 Oct 2017 17:26:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Updates.]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/f5ea7ad8a690cb96895fc2fb84e193cc59e31e2b</link>
+            <guid isPermaLink="false">0eb1ffe5b15b76366d907d51e2fa33b373c61678</guid>
+            <pubDate>Mon, 16 Oct 2017 17:25:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Removed limit and linked to limits article.]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/f256e8f07fede83240549e4eb13f13fe8c2a5057</link>
+            <guid isPermaLink="false">6af77fcc4b77d9211ea2067ca5c74d703c96d740</guid>
+            <pubDate>Mon, 16 Oct 2017 16:28:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deleted images]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/403a77d43ad130d451d8296d1ee8028cd85def9a</link>
+            <guid isPermaLink="false">58aff7fdcdd6b1c4b135f0d58f841d99d8d4e006</guid>
+            <pubDate>Fri, 13 Oct 2017 12:57:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Redirects and deletions]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/db0d5df6e27097785f391b63a82382e0fa974368</link>
+            <guid isPermaLink="false">6bc5381930891b4a0316aa5c7281dfee3fbc8c30</guid>
+            <pubDate>Fri, 13 Oct 2017 12:52:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[filename changes]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/85f1fb21669a98b6c896ab8e3d0b91e4c777018b</link>
+            <guid isPermaLink="false">b9ac859182f20aca81eda8c85470e31dedca8cbd</guid>
+            <pubDate>Thu, 12 Oct 2017 13:51:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Update virtual-network-create-vm-accelerated-networking.md]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/7a7de71482e8f537344493caea86ebdb61346bae</link>
+            <guid isPermaLink="false">1fb266a835336efc84c1a2ab264393101d6c0b19</guid>
+            <pubDate>Wed, 11 Oct 2017 20:28:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[update service updates page
+
+added new link for service updates:  https://azure.microsoft.com/en-us/updates/accelerated-networking-in-expanded-preview/]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/3519baeb994951da9dbf8d5fb1456608c0194946</link>
+            <guid isPermaLink="false">709d9c639714c4e7f75cd01c0190945b40b90b5a</guid>
+            <pubDate>Wed, 11 Oct 2017 20:21:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Added missing articles.]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/09e71d01b2de39db982af8d9b22ea1220bac9fb9</link>
+            <guid isPermaLink="false">c9a03e781550f750d4a758a2edb6bf9f55754181</guid>
+            <pubDate>Fri, 06 Oct 2017 22:24:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Added a note on public peering]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/3bd721e384bc97fc3910d06eea748238127919e4</link>
+            <guid isPermaLink="false">d023f526010579c6b7dbd64f34820f0d6b324984</guid>
+            <pubDate>Wed, 04 Oct 2017 14:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fix.
+
+Incorporated fix from https://github.com/MicrosoftDocs/azure-docs/pull/3227]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/abac23f41275be74d3163667df4e026a8746e02e</link>
+            <guid isPermaLink="false">9908b8353b0a05e533e01e9db71669dba9c8554d</guid>
+            <pubDate>Mon, 02 Oct 2017 12:32:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fixes]]></title>
+            <link>https://github.com/MicrosoftDocs/azure-docs/commit/20e05219bda9e20c4e6968ec2d7e3f0ec4e70680</link>
+            <guid isPermaLink="false">945495c24195eebe0795c919e00be5ed3e2dfd63</guid>
+            <pubDate>Mon, 02 Oct 2017 12:26:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

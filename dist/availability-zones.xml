@@ -4,7 +4,7 @@
         <description><![CDATA[azure-docs-update(availability-zones)]]></description>
         <link>http://update-check.azurewebsites.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Oct 2017 16:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2017 16:01:41 GMT</lastBuildDate>
         <atom:link href="http://i.anison.me/availability-zones.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[removing the Include per Matt's suggestion]]></title>

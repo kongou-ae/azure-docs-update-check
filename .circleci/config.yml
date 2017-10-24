@@ -34,5 +34,4 @@ jobs:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
       - run: node build/buildRss.js
-      - run: dir
       - run: ./build/deploy.sh

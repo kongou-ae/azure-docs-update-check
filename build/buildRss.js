@@ -28,7 +28,7 @@ const getTargetDir = async ()=>{
         }
         return targetDirName
     } catch (err) {
-        console.log(err.data)
+        console.log(err.response.data)
     }
 }
 
@@ -55,7 +55,7 @@ const buildRss = async(targetDirName) =>{
             await fs.writeFileSync('dist/' + dir + '.xml', xml,{'encoding':'utf8','flag':'w'})
             console.log('added ' + 'dist/' + dir + '.xml')
         } catch (err) {
-            console.log(err.data)
+            console.log(err.response.data)
         }
     }
 }

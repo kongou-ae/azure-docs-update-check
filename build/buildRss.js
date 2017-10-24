@@ -23,6 +23,7 @@ const getTargetDir = async ()=>{
         for(let data of results.data){
             if (data.type == 'dir'){
                 targetDirName.push(data.name)
+                console.log('added ' + data.name)
             }
         }
         return targetDirName
@@ -42,7 +43,6 @@ const buildRss = async(targetDirName) =>{
         });
         try {
             let results = await axios.get(repoName + 'commits?path=articles/' + dir)        
-            await sleep(1000)
             for (let result of results.data) {
                 let tmp = {}
                 tmp.title = result.commit.message
@@ -53,6 +53,7 @@ const buildRss = async(targetDirName) =>{
             }
             const xml = feed.xml({indent: true});
             await fs.writeFileSync('dist/' + dir + '.xml', xml,{'encoding':'utf8','flag':'w'})
+            console.log('added ' + 'dist/' + dir + '.xml')
         } catch (err) {
             console.log(err.data)
         }

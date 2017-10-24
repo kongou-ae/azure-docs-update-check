@@ -1,7 +1,6 @@
-!.gitkeep
-
 # Custom
 dist/*
+!.gitkeep
 
 # Logs
 logs

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>azure-docs更新情報</title>
+</head>
+<body>
+<ul>
+<% dir.forEach(function (value, key) { %>
+<li><a href="<%- value %>.xml"><%- value %></a></li>
+<% }); %>
+</ul>
+</body>
+</html>

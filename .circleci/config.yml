@@ -33,8 +33,5 @@ jobs:
           paths:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
-      - run:
-          command: |
-            node build/buildRss.js
-            echo $webappAuth
-            lftp -e "mirror -R ./dist . &&exit" -u $webappAuth ftps://waws-prod-ty1-005.ftp.azurewebsites.windows.net/site/wwwroot
+      - run: node build/buildRss.js
+      - run: lftp -e "mirror -R ./dist . &&exit" -u $webappAuth ftps://waws-prod-ty1-005.ftp.azurewebsites.windows.net/site/wwwroot

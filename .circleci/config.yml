@@ -36,4 +36,4 @@ jobs:
       - run:
           command: |
             node build/buildRss.js
-            lftp -e "mirror -R ./dist ." -u $webappAuth ftps://waws-prod-ty1-005.ftp.azurewebsites.windows.net/site/wwwroot
+            lftp -e "mirror -R ./dist . &&exit" -u ${webappAuth} ftps://waws-prod-ty1-005.ftp.azurewebsites.windows.net/site/wwwroot

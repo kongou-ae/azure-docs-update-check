@@ -40,7 +40,7 @@ jobs:
 
 workflows:
   version: 2
-  nightly:
+  schedule-build:
     triggers:
       - schedule:
           cron: " */5 * * * *"

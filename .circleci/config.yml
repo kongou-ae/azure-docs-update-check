@@ -4,7 +4,6 @@
 #
 
 version: 2.0
-
 jobs:
   build:
     docker:
@@ -40,10 +39,13 @@ jobs:
 
 workflows:
   version: 2
+  commit-build:
+    jobs:
+      - build  
   schedule-build:
     triggers:
       - schedule:
-          cron: " */5 * * * *"
+          cron: "*/5 * * * *"
           filters:
             branches:
               only:

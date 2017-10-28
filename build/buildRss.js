@@ -23,7 +23,7 @@ const getTargetDir = async ()=>{
         for(let data of results.data){
             if (data.type == 'dir'){
                 targetDirName.push(data.name)
-                console.log('added ' + data.name)
+                console.log(data.name + ' is target dir')
             }
         }
         return targetDirName
@@ -42,14 +42,19 @@ const buildRss = async(targetDirName) =>{
             
         });
         try {
-            let results = await axios.get(repoName + 'commits?path=articles/' + dir)        
+            let results = await axios.get(repoName + 'commits?path=articles/' + dir)
             for (let result of results.data) {
-                let tmp = {}
-                tmp.title = result.commit.message
-                tmp.url = result.html_url
-                tmp.guid = result.commit.tree.sha
-                tmp.date = result.commit.author.date
-                feed.item(tmp)
+//                console.log(result.commit.message)
+                if(!result.commit.message.match(/^Merge branch 'master'/)){
+                    if (!result.commit.message.match(/^Merge pull request/)){
+                        let tmp = {}
+                        tmp.title = result.commit.message
+                        tmp.url = result.html_url
+                        tmp.guid = result.commit.tree.sha
+                        tmp.date = result.commit.author.date
+                        feed.item(tmp)                                            
+                    }
+                }     
             }
             const xml = feed.xml({indent: true});
             await fs.writeFileSync('dist/' + dir + '.xml', xml,{'encoding':'utf8','flag':'w'})

@@ -42,7 +42,7 @@ const buildRss = async(targetDirName) =>{
             
         });
         try {
-            let results = await axios.get(repoName + 'commits?path=articles/' + dir)
+            let results = await axios.get(repoName + 'commits?path=articles/' + dir + '&per_page=100')
             for (let result of results.data) {
 //                console.log(result.commit.message)
                 if(!result.commit.message.match(/^Merge branch 'master'/)){
